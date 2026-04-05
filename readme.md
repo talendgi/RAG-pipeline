@@ -18,7 +18,7 @@ pip install langchain langchain-groq langchain-community langchain-huggingface \
 ```
 
 ###  — Project structure
-```
+
 rag_pipeline/
 ├── .env
 ├── config.py
