@@ -1,4 +1,3 @@
-"""
 main.py — entry point for the GraphDB Vectorized RAG Pipeline
 
 Usage
